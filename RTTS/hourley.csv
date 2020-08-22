@@ -1,0 +1,7 @@
+Time,St_1,St_2,St_3,St_4,St_5,St_6,St_7
+time.struct_time(tm_year=2019, tm_mon=12, tm_mday=30, tm_hour=19, tm_min=23, tm_sec=18, tm_wday=0, tm_yday=364, tm_isdst=0),0,0,0,0,0,49,0
+time.struct_time(tm_year=2019, tm_mon=12, tm_mday=30, tm_hour=20, tm_min=3, tm_sec=15, tm_wday=0, tm_yday=364, tm_isdst=0),0,0,0,0,0,110,0
+time.struct_time(tm_year=2020, tm_mon=1, tm_mday=2, tm_hour=18, tm_min=36, tm_sec=12, tm_wday=3, tm_yday=2, tm_isdst=0),0,0,0,0,0,204,0
+time.struct_time(tm_year=2020, tm_mon=1, tm_mday=2, tm_hour=19, tm_min=6, tm_sec=22, tm_wday=3, tm_yday=2, tm_isdst=0),0,0,0,0,0,1,0
+19,0,0,0,0,0,0,0
+time.struct_time(tm_year=2020, tm_mon=1, tm_mday=2, tm_hour=19, tm_min=16, tm_sec=20, tm_wday=3, tm_yday=2, tm_isdst=0),0,0,0,0,0,0,0
